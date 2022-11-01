@@ -46,8 +46,8 @@ You can click the Preview link to take a look at your changes.
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpanther&show_icons=true&locale=en&layout=compact" alt="dev-panther" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=devpanther&show_icons=true&locale=en" alt="dev-panther" width="410" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmirays&show_icons=true&locale=en&layout=compact" alt="emmi-rays" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=emmirays&show_icons=true&locale=en" alt="emmi-rays" width="410" />
 </p>
 
 
