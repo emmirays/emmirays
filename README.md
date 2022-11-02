@@ -42,8 +42,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<hr>
-
+<hr> <br>
 - 👋 Hi, I’m @emmirays (Emmanueul Oyiboke)
 - 👀 I’m interested in web development and software engineering
 - 🌱 I’m currently learning JavaScript and some new frameworks for web development.
