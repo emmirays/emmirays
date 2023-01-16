@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emmanuel Oyiboke
 ========================================================================================================================================
 
-Front-End Developer and Product Designer
+Front-End Developer and UI Designer
 ----------------------------------------
 
 I am a creative and logical front-end developer and product designer with 2 years+ of experience creating highly usable websites and user interfaces (UI) with the best user experience (UX) and flow.
