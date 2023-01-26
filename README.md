@@ -12,9 +12,10 @@ I am a creative and logical front-end developer and product designer with 2 year
 * 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on Interesting projects related to Front-End Development
 
-<a href="https://www.twitter.com/rays_da_dev" target="_blank" rel="noreferrer"><img
+<!--<a href="https://www.twitter.com/rays_da_dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/rays_da_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/emmirays" target="_blank" rel="noreferrer"><img
+/></a>-->
+<a href="https://www.github.com/emmirays" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/emmirays?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
