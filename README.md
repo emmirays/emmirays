@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer and UI Designer
 ----------------------------------------
 
-I am a creative and logical front-end developer and product designer with 2 years+ of experience creating highly usable websites and user interfaces (UI) with the best user experience (UX) and flow.
+As a seasoned Front-End Developer and UI/UX Designer with over 2 years of experience, I possess a unique combination
+of creativity and logic that enables me to create highly usable websites and user interfaces (UI) with exceptional user
+experience (UX) and flow. My expertise in problem-solving and ability to meet deadlines consistently have been
+demonstrated throughout my career. I am passionate about identifying opportunities for brands and organizations to
+differentiate themselves by designing and building user-centric products.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [emmanueloyiboke@gmail.com](mailto:emmanueloyiboke@gmail.com)
