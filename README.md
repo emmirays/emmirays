@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer and UI Designer
 ----------------------------------------
 
-As a seasoned Front-End Developer and UI/UX Designer with over 2 years of experience, I possess a unique combination
+As a seasoned Front-End Developer and UI/UX Designer, I possess a unique combination
 of creativity and logic that enables me to create highly usable websites and user interfaces (UI) with exceptional user
 experience (UX) and flow. My expertise in problem-solving and ability to meet deadlines consistently have been
 demonstrated throughout my career. I am passionate about identifying opportunities for brands and organizations to
