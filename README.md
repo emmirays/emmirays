@@ -50,6 +50,8 @@ src="https://img.shields.io/github/followers/emmirays?logo=github&style=for-the-
 
 ### Badges
 
+<a href="https://app.daily.dev/emmirays"><img src="https://api.daily.dev/devcards/bf329740621342ebb454394f83ad00e9.png?r=7o0" width="400" alt="Emmanuel Oyiboke's Dev Card"/></a>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/emmirays"><img src="https://github-readme-stats.vercel.app/api?username=emmirays&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="emmirays's GitHub stats" /></a>
