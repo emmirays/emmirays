@@ -10,7 +10,7 @@ experience (UX) and flow. My expertise in problem-solving and ability to meet de
 demonstrated throughout my career. I am passionate about identifying opportunities for brands and organizations to
 differentiate themselves by designing and building user-centric products.
 
-* 🌍  I'm based in Lagos, Nigeria
+* 🌍  I'm based in Benin, Nigeria
 * ✉️  You can contact me at [emmanueloyiboke@gmail.com](mailto:emmanueloyiboke@gmail.com)
 * 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on Interesting projects related to Front-End Development
