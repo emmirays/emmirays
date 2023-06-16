@@ -1,19 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emmanuel Oyiboke
+(Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emmanuel Oyiboke
 ========================================================================================================================================
 
-Front-End Developer and UI Designer
+Front-End Developer and Web 3 UI Developer (Next.js⚛️🥑)
 ----------------------------------------
 
-As a seasoned Front-End Developer and UI/UX Designer, I possess a unique combination
-of creativity and logic that enables me to create highly usable websites and user interfaces (UI) with exceptional user
-experience (UX) and flow. My expertise in problem-solving and ability to meet deadlines consistently have been
-demonstrated throughout my career. I am passionate about identifying opportunities for brands and organizations to
-differentiate themselves by designing and building user-centric products.
+Professional Deadline-Oriented Front-End Developer,
+Proficient in Building Frontend Web 2 and Web 3 WebApps.
 
-* 🌍  I'm based in Benin, Nigeria
 * ✉️  You can contact me at [emmanueloyiboke@gmail.com](mailto:emmanueloyiboke@gmail.com)
 * 🧠  I'm learning Node.js
-* 🤝  I'm open to collaborating on Interesting projects related to Front-End Development
+* 🤝  I'm open to collaborating on Interesting projects related to Front-End Web 2 | Web 3 Development
 <!-- * 🖥️  See my portfolio at [emmanueloyiboke.com](http://bit.ly/DevRays) -->
 
 <!--<a href="https://www.twitter.com/rays_da_dev" target="_blank" rel="noreferrer"><img
