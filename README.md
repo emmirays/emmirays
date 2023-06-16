@@ -12,7 +12,7 @@ differentiate themselves by designing and building user-centric products.
 
 * 🌍  I'm based in Benin, Nigeria
 * ✉️  You can contact me at [emmanueloyiboke@gmail.com](mailto:emmanueloyiboke@gmail.com)
-* 🧠  I'm learning React.js
+* 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on Interesting projects related to Front-End Development
 <!-- * 🖥️  See my portfolio at [emmanueloyiboke.com](http://bit.ly/DevRays) -->
 
