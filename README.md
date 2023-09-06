@@ -63,7 +63,7 @@ Proficient in Building Frontend Web 2 and Web 3 WebApps.
 [![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=emmirays&repo=Shanghai-Token&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/emmirays/Shanghai-Token#gh-dark-mode-only)
 [![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=emmirays&repo=Shanghai-Token&show_owner=true&theme=dark#gh-light-mode-only)](https://github.com/emmirays/Shanghai-Token#gh-light-mode-only)
 
-[![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=emmirays&repo=Shibart&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/emmirays/Shibart#gh-dark-mode-only)
+[![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=emmirays&repo=shibart&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/emmirays/Shibart#gh-dark-mode-only)
 [![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=emmirays&repo=Shibart&show_owner=true&theme=dark#gh-light-mode-only)](https://github.com/emmirays/Shibart#gh-light-mode-only)
 
 <br>
