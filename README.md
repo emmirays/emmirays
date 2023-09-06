@@ -14,12 +14,6 @@ Proficient in Building Frontend Web 2 and Web 3 WebApps.
 
 <br>
 
-### <img src="https://media.giphy.com/media/RNcZfSefdn2Iq1SdZI/giphy.gif" width="20">&nbsp;Now Playing
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31y62zjybij2nq2oexkbudsicazm)
-
-<br>
-
 ### Skills
 
 <p align="left">
@@ -43,6 +37,12 @@ Proficient in Building Frontend Web 2 and Web 3 WebApps.
 ### Badges
 
 <a href="https://app.daily.dev/emmirays"><img src="https://api.daily.dev/devcards/bf329740621342ebb454394f83ad00e9.png?r=iri" width="400" alt="Emmanuel Oyiboke's Dev Card"/></a>
+
+<br>
+
+### <img src="https://media.giphy.com/media/RNcZfSefdn2Iq1SdZI/giphy.gif" width="20">&nbsp;Now Playing
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31y62zjybij2nq2oexkbudsicazm)
 
 <br>
 
