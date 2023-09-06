@@ -9,8 +9,8 @@ Proficient in Building Frontend Web 2 and Web 3 WebApps.
 - 🧠  I'm currently learning Node.js
 - 🤝  I'm open to collaborating on Interesting projects related to Front-End Web 2 | Web 3 Development
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/rays_da_dev?style=%20for-the-badge&logo=x&color=%23fff#gh-dark-mode-only)][x]&nbsp;
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/rays_da_dev?style=%20for-the-badge&logo=x&color=%23000#gh-light-mode-only)][x]&nbsp;
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/rays_da_dev?style=%20for-the-badge&logo=x&color=%23fff#gh-dark-mode-only)]([x]#gh-dark-mode-only)&nbsp;
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/rays_da_dev?style=%20for-the-badge&logo=x&color=%23000#gh-light-mode-only)]([x]#gh-light-mode-only)&nbsp;
 ![Github Profile Views](https://komarev.com/ghpvc/?username=emmirays)
 
 <br>
@@ -52,7 +52,7 @@ Proficient in Building Frontend Web 2 and Web 3 WebApps.
 [![Devrays's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=emmirays&hide_border=true&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/emmirays/github-readme-stats#gh-dark-mode-only)
 [![Devrays's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=emmirays&hide_border=false&show_icons=true&rank_icon=github&theme=default#gh-light-mode-only)](https://github.com/emmirays/github-readme-stats#gh-light-mode-only)
 
-[![GitHub Streak Dark](https://github-readme-streak-stats.herokuapp.com?&hide_border=true&user=emmirays&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+[![GitHub Streak Dark](https://github-readme-streak-stats.herokuapp.com?&hide_border=true&user=emmirays&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 [![GitHub Streak Light](https://github-readme-streak-stats.herokuapp.com?&hide_border=false&user=emmirays&theme=default#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=emmirays&hide_border=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/emmirays/github-readme-stats#gh-dark-mode-only)
