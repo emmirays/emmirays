@@ -60,11 +60,11 @@ Proficient in Building Frontend Web 2 and Web 3 WebApps.
 
 ### My recent projects
 
-[![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=emmirays&repo=Shanghai-Token&show_owner=true&theme=dark#gh-dark-mode-only)][shanghia-token-repo]
-[![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=emmirays&repo=Shanghai-Token&show_owner=true&theme=dark#gh-light-mode-only)][shanghia-token-repo]
+[![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=emmirays&repo=Shanghai-Token&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/emmirays/Shanghai-Token#gh-dark-mode-only)
+[![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=emmirays&repo=Shanghai-Token&show_owner=true&theme=dark#gh-light-mode-only)](https://github.com/emmirays/Shanghai-Token#gh-light-mode-only)
 
-[![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=emmirays&repo=Shibart&show_owner=true&theme=dark#gh-dark-mode-only)][shibart-repo]
-[![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=emmirays&repo=Shibart&show_owner=true&theme=dark#gh-light-mode-only)][shibart-repo]
+[![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=emmirays&repo=Shibart&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/emmirays/Shibart#gh-dark-mode-only)
+[![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=emmirays&repo=Shibart&show_owner=true&theme=dark#gh-light-mode-only)](https://github.com/emmirays/Shibart#gh-light-mode-only)
 
 <br>
 
@@ -72,6 +72,4 @@ Proficient in Building Frontend Web 2 and Web 3 WebApps.
 
 <a href="https://www.buymeacoffee.com/emmanueloy6"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-[shanghia-token-repo]: https://github.com/emmirays/Shanghai-Token
-[shibart-repo]: https://github.com/emmirays/Shibart
 [x]: https://x.com/@rays_da_dev
