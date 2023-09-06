@@ -52,8 +52,8 @@ Proficient in Building Frontend Web 2 and Web 3 WebApps.
 [![Devrays's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=emmirays&hide_border=true&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/emmirays/github-readme-stats#gh-dark-mode-only)
 [![Devrays's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=emmirays&hide_border=false&show_icons=true&rank_icon=github&theme=default#gh-light-mode-only)](https://github.com/emmirays/github-readme-stats#gh-light-mode-only)
 
-[![GitHub Streak Dark](https://github-readme-streak-stats.herokuapp.com?&hide_border=true&user=emmirays&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats)
-[![GitHub Streak Light](https://github-readme-streak-stats.herokuapp.com?&hide_border=false&user=emmirays&theme=default#gh-light-mode-only)](https://git.io/streak-stats)
+[![GitHub Streak Dark](https://github-readme-streak-stats.herokuapp.com?&hide_border=true&user=emmirays&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+[![GitHub Streak Light](https://github-readme-streak-stats.herokuapp.com?&hide_border=false&user=emmirays&theme=default#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=emmirays&hide_border=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/emmirays/github-readme-stats#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=emmirays&hide_border=true&hide_border=false&layout=compact&theme=default#gh-light-mode-only)](https://github.com/emmirays/github-readme-stats#gh-light-mode-only)
