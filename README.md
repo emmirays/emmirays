@@ -9,8 +9,8 @@ Proficient in Building Frontend Web 2 and Web 3 WebApps.
 - 🧠  I'm currently learning Node.js
 - 🤝  I'm open to collaborating on Interesting projects related to Front-End Web 2 | Web 3 Development
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/rays_da_dev?style=%20for-the-badge&logo=x&color=%23fff#gh-dark-mode-only)][x](#gh-dark-mode-only)&nbsp;
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/rays_da_dev?style=%20for-the-badge&logo=x&color=%23000#gh-light-mode-only)][x](#gh-light-mode-only)&nbsp;
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/rays_da_dev?style=%20for-the-badge&logo=x&color=%23fff#gh-dark-mode-only)](https://x.com/@rays_da_dev#gh-dark-mode-only)&nbsp;
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/rays_da_dev?style=%20for-the-badge&logo=x&color=%23000#gh-light-mode-only)](https://x.com/@rays_da_dev#gh-light-mode-only)&nbsp;
 ![Github Profile Views](https://komarev.com/ghpvc/?username=emmirays)
 
 <br>
@@ -73,5 +73,3 @@ Proficient in Building Frontend Web 2 and Web 3 WebApps.
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/emmanueloy6"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-[x]: https://x.com/@rays_da_dev
