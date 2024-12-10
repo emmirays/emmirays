@@ -35,9 +35,9 @@ Proficient in Building Frontend Web 2 and Web 3 WebApps.
 
 <br>
 
-### Badges
+<!-- ### Badges
 
-<a href="https://app.daily.dev/emmirays"><img src="https://api.daily.dev/devcards/bf329740621342ebb454394f83ad00e9.png?r=iri" width="400" alt="Emmanuel Oyiboke's Dev Card"/></a>
+<a href="https://app.daily.dev/emmirays"><img src="https://api.daily.dev/devcards/bf329740621342ebb454394f83ad00e9.png?r=iri" width="400" alt="Emmanuel Oyiboke's Dev Card"/></a> -->
 
 <br>
 
