@@ -6,8 +6,7 @@ Professional Deadline-Oriented Front-End Engineer,
 Proficient in Building Frontend Web 2 and Web 3 WebApps.
 
 - ✉️  You can contact me at [emmanueloyiboke@gmail.com](mailto:emmanueloyiboke@gmail.com)
-- 🧠  I'm currently learning Node.js
-- 🤝  I'm open to collaborating on Interesting projects related to Front-End Web 2 | Web 3 Development
+- 🤝  I'm open to collaborating on Interesting projects related to Front-End Web 2 & Web 3 Development
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/rays_da_dev?style=%20for-the-badge&logo=x&color=%23fff#gh-dark-mode-only)](https://x.com/@rays_da_dev#gh-dark-mode-only)&nbsp;
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/rays_da_dev?style=%20for-the-badge&logo=x&color=%23000#gh-light-mode-only)](https://x.com/@rays_da_dev#gh-light-mode-only)&nbsp;
