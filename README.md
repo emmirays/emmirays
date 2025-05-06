@@ -59,16 +59,6 @@ Proficient in Building Frontend Web 2 and Web 3 WebApps.
 
 <br>
 
-### My recent projects
-
-[![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=emmirays&hide_border=true&repo=Shanghai-Token&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/emmirays/Shanghai-Token#gh-dark-mode-only)
-[![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=emmirays&hide_border=false&repo=Shanghai-Token&show_owner=true&theme=default#gh-light-mode-only)](https://github.com/emmirays/Shanghai-Token#gh-light-mode-only)
-
-[![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=emmirays&hide_border=true&repo=shibart&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/emmirays/Shibart#gh-dark-mode-only)
-[![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=emmirays&hide_border=false&repo=Shibart&show_owner=true&theme=default#gh-light-mode-only)](https://github.com/emmirays/Shibart#gh-light-mode-only)
-
-<br>
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/emmanueloy6"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
